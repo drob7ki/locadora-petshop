@@ -1,4 +1,4 @@
-PetLoc 🐾
+**PetLoc 🐾**
 
 Sistema web desenvolvido em PHP para gerenciamento de serviços de um petshop, permitindo controle de reservas, hospedagens e serviços de banho para pets.
 
